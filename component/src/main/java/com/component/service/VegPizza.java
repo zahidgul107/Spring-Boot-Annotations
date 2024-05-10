@@ -2,7 +2,7 @@ package com.component.service;
 
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 public class VegPizza implements Pizza {
 	
 	@Override
